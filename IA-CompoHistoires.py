@@ -5,7 +5,7 @@ pronoms = ["Je", "Tu", "Il", "Elle", "On", "Nous", "Vous", "Ils", "Elles"]
 pronom = random.choice(pronoms)
 
 print("-------- Créateur de phrases/histoires automatisé Python --------")
-print("Créé par Nicolas Mailloux, avril 2020. Tous droits réservés")
+print("Créé par tux-linux, avril 2020. Tous droits réservés")
 
 # Transformation des mots en listes
 verbes = input("Quels sont les verbes des mots de vocabulaire ? Les écrire ci-dessous, séparés d'un espace.\n")
@@ -205,4 +205,4 @@ phrase2 = ("{0} {1} {2} {3} {4} {5} {6}.".format(terminaison, determinant, nom, 
 ## Impression de l'histoire
 print(phrase, phrase1, phrase2)
 
-#### Tous droits réservés pour Nicolas Mailloux, avril 2020. Toute reproduction est illicite et constitue une contrefaçon ####
+#### Tous droits réservés pour tux-linux, avril 2020. Toute reproduction est illicite et constitue une contrefaçon ####
