@@ -4,7 +4,7 @@ pronoms = ["Je", "Tu", "Il", "Elle", "On", "Nous", "Vous", "Ils", "Elles"]
 pronom = random.choice(pronoms)
 
 print("-------- Créateur de phrases automatisé Python --------")
-print("Créé par Nicolas Mailloux, avril 2020. Tous droits réservés")
+print("Créé par tux-linux, avril 2020. Tous droits réservés")
 
 # Transformation des mots en listes
 verbes = input("Quels sont les verbes des mots de vocabulaire ? Les écrire ci-dessous, séparés d'un espace.\n")
